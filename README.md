@@ -13,5 +13,6 @@
 ## Some useful API calls:
 
 * https://api.nsw.gov.au/fuel-price-check/apis
+* https://www.fuelwatch.wa.gov.au/fuelwatch/pages/home.jspx
 * We can find more by checking the requests of the sites above
 
